@@ -1,0 +1,25 @@
+From: Kartu Kredit Kantor <no-reply@bankcontoh.co.id>
+To: confiscated@example.com
+Subject: [PENTING] Aktifasi kartu & kode OTP 881-442
+Date: Mon, 28 Sep 2026 09:41:07 +0700
+Message-ID: <20260928094107.8821.abc@bankcontoh.co.id>
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <body>
+    <h2>Pesanan Anda menunggu verifikasi</h2>
+    <p>Halo,</p>
+    <p>Kami mendeteksi percobaan pencairan sebesar <b>Rp 4.250.000</b> dari rekening Anda.</p>
+    <p>Klik tautan berikut dalam <b>30 menit</b>:</p>
+    <p><a href="https://bank-contoh.example/verifikasi?kode=881442">Verifikasi Sekarang</a></p>
+    <blockquote>
+     dimana
+      <p>Nomor referensi: <code>REF-8821-XY</code></p>
+      <p>Butuh bantuan? Hubungi 021-000-000</p>
+    </blockquote>
+    <p>&mdash; Tim Keamanan Bank Contoh</p>
+    <img src="https://bank-contoh.example/logo.png" width="120" alt="logo">
+  </body>
+</html>
